@@ -1,0 +1,6 @@
+{
+  "name": "Chat App",
+  "description": "A feature-rich real-time chat application with registration, login, profile editing, user search, friend requests, photo sharing via Imgbb API, and voice/video calling via Agora RTC.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
